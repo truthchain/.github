@@ -33,4 +33,4 @@ This won't be easy.
 There will be hurdles and technical challenges.
 But if this is something you care about, then join our effort.
 
-(Discord)
+[truthchain on Discord](https://discord.gg/CbasmP9hWU)
